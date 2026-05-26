@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+
+  <!-- ERROR CORREGIDO: la etiqueta <Titulo> tenia T mayuscula, debe ser <titulo> en minuscula -->
+  <libro id="001">
+    <titulo>Introduccion a la programacion</titulo>
+    <autor>Carlos Mendez</autor>
+    <anio>2021</anio>
+  </libro>
+
+  <!-- ERROR CORREGIDO: el atributo id=002 no tenia comillas dobles, debe ser id="002" -->
+  <libro id="002">
+
+    <!-- ERROR CORREGIDO: la etiqueta de cierre </titulo> estaba escrita como </Titulo> con mayuscula -->
+    <titulo>Bases de datos</titulo>
+
+    <!-- ERROR CORREGIDO: la etiqueta de cierre </autor> estaba escrita como </autor> con espacio extra / mal anidada -->
+    <autor>Laura Perez</autor>
+    <anio>2019</anio>
+  </libro>
+
+</biblioteca>
