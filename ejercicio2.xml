@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grupo>
+
+  <!-- Primer alumno -->
+  <alumno id="001" turno="matutino">
+    <nombre>Carlos Lopez</nombre>
+    <carrera>Ingenieria en Sistemas</carrera>
+    <promedio>88</promedio>
+  </alumno>
+
+  <!-- Segundo alumno -->
+  <alumno id="002" turno="vespertino">
+    <nombre>Laura Perez</nombre>
+    <carrera>Licenciatura en Informatica</carrera>
+    <promedio>92</promedio>
+    <materias>
+      <materia>Bases de Datos</materia>
+      <materia>interconectividad de redes</materia>
+      <materia>Programacion en ambiente cliente servidor</materia>
+    </materias>
+  </alumno>
+
+  <!-- Tercer alumno -->
+  <alumno id="003" turno="matutino">
+    <nombre>Diego Ramirez</nombre>
+    <carrera>Ingenieria en sistemas</carrera>
+    <promedio>85</promedio>
+  </alumno>
+
+</grupo>
