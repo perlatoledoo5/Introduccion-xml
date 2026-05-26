@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumno semestre="5">
+  <nombre>Ana</nombre>
+  <apellidos>Martinez Rios</apellidos>
+  <edad>23</edad>
+  <correo>ana.martinez@correo.com</correo>
+  <telefono>5512345678</telefono>
+  <direccion>
+    <calle>Av. Insurgentes 45</calle>
+    <colonia>Roma Norte</colonia>
+    <ciudad>Ciudad de Mexico</ciudad>
+  </direccion>
+</alumno>
